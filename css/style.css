@@ -810,7 +810,7 @@ header .container {
     left: -8px;
 }
 #features-tab1 img {
-    margin-right: -200px;
+    margin-right: 0px;
 }
 #features-tab2 img {
     margin-right: 60px;
@@ -2139,7 +2139,7 @@ body::-webkit-scrollbar-thumb {
   outline: 1px solid slategrey;
 }
 
-.header-dashboard, img.fadeRight.animated  {
+.header-dashboard  {
     visibility: hidden;
     display: none;
 }
